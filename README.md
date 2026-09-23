@@ -37,7 +37,7 @@ The framework integrates:
 ## Proposed Architecture
 
 <p align="center">
-  <img src="Docs/Architecture.png" width="1000">
+  <img src="docs/Architecture.png" width="1000">
 </p>
 
 <p align="center">
